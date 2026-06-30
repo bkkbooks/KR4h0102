@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR4h0102/WYG/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4h0102_WYG_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4h0102_WYG_000-front01}
+  - {type: 'kr:newline', offset: 6, content: '
+
+      ', id: KR4h0102_WYG_000-bkkkrnewl2}
+  - {type: 'kr:newline', offset: 6, content: '
+
+      ', id: KR4h0102_WYG_000-bkkkrnewl3}
+  - {type: line-break, offset: 6, content: '', id: KR4h0102_WYG_001-1a01}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4h0102_WYG_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4h0102_WYG_001-1a02}
+  - {type: indent, offset: 0, content: 　, id: KR4h0102_WYG_000-bkkind1}
+  - {type: 'kr:newline', offset: 5, content: '
+
+      ', id: KR4h0102_WYG_000-bkkkrnewl2}
+  - {type: line-break, offset: 5, content: '', id: KR4h0102_WYG_001-1a03}
+  - {type: indent, offset: 5, content: 　　　　, id: KR4h0102_WYG_000-bkkind2}
+  - {type: line-break, offset: 5, content: '', id: KR4h0102_WYG_001-1a04}
+  - {type: indent, offset: 5, content: 　　　　, id: KR4h0102_WYG_000-bkkind3}
+  - {type: line-break, offset: 5, content: '', id: KR4h0102_WYG_001-1a05}
+  - {type: indent, offset: 5, content: 　　　　, id: KR4h0102_WYG_000-bkkind4}
+  - {type: indent, offset: 6, content: 　, id: KR4h0102_WYG_000-bkkind5}
+  - {type: indent, offset: 9, content: 　, id: KR4h0102_WYG_000-bkkind6}
+  - {type: 'kr:newline', offset: 10, content: '
+
+      ', id: KR4h0102_WYG_000-bkkkrnewl3}
+  - {type: line-break, offset: 10, content: '', id: KR4h0102_WYG_001-1a06}
+  - {type: indent, offset: 10, content: 　, id: KR4h0102_WYG_000-bkkind7}
+  - {type: 'kr:newline', offset: 11, content: '
+
+      ', id: KR4h0102_WYG_000-bkkkrnewl4}
+  - {type: line-break, offset: 11, content: '', id: KR4h0102_WYG_001-1a07}
+  - {type: indent, offset: 11, content: 　　, id: KR4h0102_WYG_000-bkkind8}
+  - {type: 'kr:newline', offset: 15, content: '
+
+      ', id: KR4h0102_WYG_000-bkkkrnewl5}
+  back: []
+hash: sha256:95af4bcdeaad1e0315153840d40267f94ee43f191f563bbc1562892d4e45ef44
