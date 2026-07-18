@@ -831,6 +831,7 @@ markers:
   - {type: variant, offset: 2371, length: 1, content: 傳, WYG: 傅}
   - {type: substitution, offset: 2375, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 2377, content: (, id: KR4h0102_krp_085-bkkpn1}
+  - {type: voice, offset: 2377, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2379, content: ), id: KR4h0102_krp_085-bkkpn2}
   - {type: 'kr:newline', offset: 2379, content: '
 
@@ -2077,4 +2078,4 @@ markers:
 
       ', id: KR4h0102_krp_085-bkkkrnewl322}
   back: []
-hash: sha256:f92ec646d7c8102b7a80ffc37c8ee3b117ce1b8d18c617666f898cb2e20de353
+hash: sha256:5196423a35dce02961ede1642bd2ffd74f7ca4a8fc3fd78cf7640dd544f1de0a

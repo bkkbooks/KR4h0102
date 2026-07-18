@@ -1497,6 +1497,7 @@ markers:
   - {type: punctuation, offset: 3732, content: (, id: KR4h0102_krp_099-bkkpn1}
   - {type: variant, offset: 3732, length: 1, content: 数, WYG: 數}
   - {type: substitution, offset: 3732, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
+  - {type: voice, offset: 3732, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3733, content: /, id: KR4h0102_krp_099-bkkpn2}
   - {type: punctuation, offset: 3734, content: ), id: KR4h0102_krp_099-bkkpn3}
   - {type: variant, offset: 3735, length: 1, content: 徃, WYG: 往}
@@ -1740,6 +1741,7 @@ markers:
   - {type: variant, offset: 4358, length: 1, content: 賛, WYG: 贊}
   - {type: substitution, offset: 4358, original: 賛, replacement: 贊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17775}}
   - {type: punctuation, offset: 4360, content: (, id: KR4h0102_krp_099-bkkpn4}
+  - {type: voice, offset: 4360, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 4361, content: ), id: KR4h0102_krp_099-bkkpn5}
   - {type: variant, offset: 4361, length: 1, content: 鎦, WYG: 劉}
   - {type: variant, offset: 4366, length: 1, content: 郎, SBCK: 􅀰}
@@ -1751,6 +1753,7 @@ markers:
   - {type: substitution, offset: 4371, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
   - {type: indent, offset: 4377, content: 　, id: KR4h0102_krp_099-bkkind105}
   - {type: punctuation, offset: 4379, content: (, id: KR4h0102_krp_099-bkkpn6}
+  - {type: voice, offset: 4379, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 4380, content: ), id: KR4h0102_krp_099-bkkpn7}
   - {type: variant, offset: 4386, length: 1, content: 所, SBCK: 􅀁}
   - {type: 'kr:newline', offset: 4389, content: '
@@ -2807,4 +2810,4 @@ markers:
 
       ', id: KR4h0102_krp_099-bkkkrnewl387}
   back: []
-hash: sha256:2b393e626399731c7e1b7df20a145791f98a27a131b90fb4940a6a48fe00b6e6
+hash: sha256:d1c07242d70baba33a14484854607c442da6ced4ca487732d74f63df267ce19d

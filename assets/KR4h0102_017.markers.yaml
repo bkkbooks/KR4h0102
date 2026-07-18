@@ -713,6 +713,7 @@ markers:
   - {type: indent, offset: 1660, content: 　　, id: KR4h0102_krp_017-bkkind29}
   - {type: substitution, offset: 1662, original: 箴, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20164}}
   - {type: punctuation, offset: 1663, content: (, id: KR4h0102_krp_017-bkkpn1}
+  - {type: voice, offset: 1663, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 1666, content: ), id: KR4h0102_krp_017-bkkpn2}
   - {type: 'kr:newline', offset: 1669, content: '
 
@@ -1473,6 +1474,7 @@ markers:
   - {type: line-break, offset: 3487, content: '', id: KR4h0102_SBCK_017-9a04}
   - {type: indent, offset: 3487, content: 　　　, id: KR4h0102_krp_017-bkkind53}
   - {type: punctuation, offset: 3491, content: (, id: KR4h0102_krp_017-bkkpn3}
+  - {type: voice, offset: 3491, length: 2, name: note, id: n2}
   - {type: variant, offset: 3492, length: 1, content: 叙, WYG: 序}
   - {type: substitution, offset: 3492, original: 叙, replacement: 敘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16962}}
   - {type: punctuation, offset: 3493, content: ), id: KR4h0102_krp_017-bkkpn4}
@@ -1816,6 +1818,7 @@ markers:
   - {type: line-break, offset: 4357, content: '', id: KR4h0102_SBCK_017-10b12}
   - {type: indent, offset: 4357, content: 　　　, id: KR4h0102_krp_017-bkkind78}
   - {type: punctuation, offset: 4362, content: (, id: KR4h0102_krp_017-bkkpn5}
+  - {type: voice, offset: 4362, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 4364, content: ), id: KR4h0102_krp_017-bkkpn6}
   - {type: 'kr:newline', offset: 4364, content: '
 
@@ -2036,4 +2039,4 @@ markers:
 
       ', id: KR4h0102_krp_017-bkkkrnewl291}
   back: []
-hash: sha256:53b629a87ad75a90eddea22b61ec8bf26432ae5393bc759bb48c81e6a0c19fc5
+hash: sha256:935375d06dc432da7e6ed1345c9b4ecaecfe10aaceb3c2c194f060f56c726bfa

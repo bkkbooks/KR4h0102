@@ -232,6 +232,7 @@ markers:
   - {type: substitution, offset: 711, original: 庻, replacement: 庶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17347}}
   - {type: variant, offset: 712, length: 1, content: 幾, WYG: 㡬}
   - {type: punctuation, offset: 717, content: (, id: KR4h0102_krp_009-bkkpn1}
+  - {type: voice, offset: 717, length: 28, name: note, id: n1}
   - {type: punctuation, offset: 722, content: /, id: KR4h0102_krp_009-bkkpn2}
   - {type: punctuation, offset: 727, content: ), id: KR4h0102_krp_009-bkkpn3}
   - {type: 'kr:newline', offset: 727, content: '
@@ -289,6 +290,7 @@ markers:
       ', id: KR4h0102_krp_009-bkkkrnewl43}
   - {type: line-break, offset: 874, content: '', id: KR4h0102_SBCK_009-2b05}
   - {type: punctuation, offset: 893, content: (, id: KR4h0102_krp_009-bkkpn7}
+  - {type: voice, offset: 893, length: 21, name: note, id: n2}
   - {type: variant, offset: 895, length: 1, content: 𥘉, SBCK: 􅀄}
   - {type: variant, offset: 895, length: 1, content: 𥘉, WYG: 初}
   - {type: punctuation, offset: 897, content: /, id: KR4h0102_krp_009-bkkpn8}
@@ -321,6 +323,7 @@ markers:
       ', id: KR4h0102_krp_009-bkkkrnewl46}
   - {type: line-break, offset: 953, content: '', id: KR4h0102_SBCK_009-2b08}
   - {type: punctuation, offset: 965, content: (, id: KR4h0102_krp_009-bkkpn13}
+  - {type: voice, offset: 965, length: 7, name: note, id: n3}
   - {type: variant, offset: 966, length: 1, content: 專, WYG: 専}
   - {type: punctuation, offset: 969, content: /, id: KR4h0102_krp_009-bkkpn14}
   - {type: punctuation, offset: 972, content: ), id: KR4h0102_krp_009-bkkpn15}
@@ -461,6 +464,7 @@ markers:
   - {type: line-break, offset: 1410, content: '', id: KR4h0102_SBCK_009-3b05}
   - {type: page-break, offset: 1410, content: '', id: KR4h0102_WYG_009-5b, image: WYG1373/WYG1373-0599d.png}
   - {type: punctuation, offset: 1411, content: (, id: KR4h0102_krp_009-bkkpn16}
+  - {type: voice, offset: 1411, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 1414, content: /, id: KR4h0102_krp_009-bkkpn17}
   - {type: punctuation, offset: 1417, content: ), id: KR4h0102_krp_009-bkkpn18}
   - {type: variant, offset: 1433, length: 1, content: 竊, SBCK: 􅀼}
@@ -3591,6 +3595,7 @@ markers:
   - {type: indent, offset: 11710, content: 　　　, id: KR4h0102_krp_009-bkkind15}
   - {type: punctuation, offset: 11712, content: (, id: KR4h0102_krp_009-bkkpn19}
   - {type: variant, offset: 11712, length: 1428, content: 九首王廉禋于六宗先儒言六宗者非一家或以爲天地四方或以爲祖宗四方或以爲天皇大帝及五帝或以爲五官或以爲四望或以爲蜡之百物或以爲天宗三地宗三或以爲日月星辰司中司命風師雨師或以爲卦之六子或以爲三昭三穆各肆爲臆說互相駁黜終無一定之論逐使六宗之說不明惜哉按六宗出于虞書周禮則無明文惟孔叢子以祭法埋少牢於泰昭祭時相近於坎壇祭寒暑王宫祭日夜明祭月幽榮祭星雩榮祭水旱爲六宗孔安國因之王肅之說亦同朱子書說亦取焉三山楊信齋以朱子書說非茍從者今從之必有深意但鄭玄註祭法改相近為禳祈又以六者皆以爲祈禱之祭夫舜類于上帝禋于六宗望千山川徧于群神乃是攝位告祭之禮安得禳祈之禮哉其說足以破之若以此祭爲常祀則非也夫舜類于山川徧于羣神所以告攝位也告攝位于天地山川羣神足矣何必吿于四時寒暑水旱哉先儒以家語爲漢儒附㑹觀於此類信矣孔安國王子雍祖述其說故不足怪朱子取之何也楊信齋述祭禮一書足以爲不刋之典旣疑之復以爲朱子取之必有深意又何也愚謂舜攝位告祭類于上帝及望于山川徧于羣神矣惟不告祭於地祇意六宗謂地祇也蓋六爲地數宗尊也且序其次地祇正當在上帝之後山川羣神之上斯說豈不正大耶周禮太宗伯王大封其先告后土大封猶且告后土攝位爲天子安得不告地也晉虞喜别論蓋謂此也但喜謂地有五色大社象之其緫五爲一成六爲地數渉於鑿耳劉昭亦以爲喜說近得其實予亦云昭以虞書所稱肆類于上帝是祭天不言天而曰上帝帝是天神之極舉帝則天帝斯盡日月星辰從可知也禋于六宗是祭地不言地而言六宗六是地數之中舉中以該社稷等配從可知也其說似好謂帝能該日月星辰則可謂舉地數之中以該社稷等配則不可望于山川豈非地乎即如其說若重復矣但以地數六爲六宗自明何必穿鑿如是文獻通考但歷考先儒訓釋之同異考訂之去取著爲一門亦無定六宗之說又不載虞喜劉昭之辯梁博士崔靈恩三禮義宗詳於六宗者也亦略之豈亦有所遺耶武王伐紂當文王與紂之時紂之贒臣有若箕子膠鬲微子微仲王子比干相與輔相之故文王不有天下武王立十有三年大㑹於孟津數紂之罪以伐之殷之民以武王拯己於水火之中故篚厥玄黃簞食壺漿以迎王師殷之民非厭殷也厭紂之虐也紂亾則民固未厭七王之遺徳也當紂之亡也微子去之箕子爲之奴箕子紂諸父也微子紂庻兄也其賢其聖與武王不相下也武王克商釋箕子之囚矣不求箕子微子之誰立顧乃訪箕子以天道而受洪範之訓旣以箕子而爲師矣武王固知殷宗未厭也不箕子是讓是立而遽踐天子位焉微子之去武王安得而不知之即箕子不言其去而欲閟微子以存商祀也武王在位五年曽無一言以及之何哉至成王時武庚叛誅乃立微子於宋吁武王之於微子吾不得而知其故也武王之於箕子吾不得而知其事也其後殷民反覆卒不服周觀大誥康誥酒誥梓材召誥洛誥多士多方八篇可見矣善乎蘇子嘗曰多方所告不止殷人乃及四方之士是紛紛焉不心服者非獨殷也予乃知湯已下七王之徳矣方殷紂之虐人如在膏火中歸周如流不暇念先王之徳及天下初定人自膏火中出即念殷先七王如父母雖以武王周公之聖相繼撫之而莫能禦也使周無周公則亦殆矣由是觀之殷民厭紂非厭殷也豈虛語哉武王克商不立箕子則微子之立殷民戴周之德爲何如也今也不然殷民之叛無足恠也呉氏曰湯武皆以兵受命然湯之辭裕武王之辭迫湯之數桀也恭武王之數紂也傲學者不能無憾焉吾於武王之克商也不憾其辭之傲而憾其不立箕子與微子之去而不求也抑武王聖人孔孟之所宗也小子何得而議之議其迹之見於書者耳盡信書不如無書孟子固以疑之然又惡知武王當時之立箕子而求微子矣而箕子微子知天命之在周固讓不居而後武王不得巳而踐位焉後世亡其傳邪秦㓕載籍書傳於伏生出於孔壁則固後世不得而盡信之也盡信之吾於武王有憾焉, WYG: ''}
+  - {type: voice, offset: 11712, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 11714, content: ), id: KR4h0102_krp_009-bkkpn20}
   - {type: 'kr:newline', offset: 11716, content: '
 
@@ -3963,6 +3968,7 @@ markers:
   - {type: indent, offset: 13140, content: 　　　, id: KR4h0102_krp_009-bkkind18}
   - {type: substitution, offset: 13142, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17299}}
   - {type: punctuation, offset: 13143, content: (, id: KR4h0102_krp_009-bkkpn21}
+  - {type: voice, offset: 13143, length: 4, name: note, id: n6}
   - {type: variant, offset: 13146, length: 1, content: 辯, WYG: 辨王廉}
   - {type: substitution, offset: 13146, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 13147, content: ), id: KR4h0102_krp_009-bkkpn22}
@@ -4666,6 +4672,7 @@ markers:
   - {type: indent, offset: 15279, content: 　　　　, id: KR4h0102_krp_009-bkkind22}
   - {type: substitution, offset: 15280, original: 讙, replacement: 歡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16430}}
   - {type: punctuation, offset: 15284, content: (, id: KR4h0102_krp_009-bkkpn23}
+  - {type: voice, offset: 15284, length: 6, name: note, id: n7}
   - {type: variant, offset: 15288, length: 1, content: 鈎, WYG: 鉤}
   - {type: variant, offset: 15289, length: 1, content: 玄, WYG: 𤣥}
   - {type: punctuation, offset: 15290, content: ), id: KR4h0102_krp_009-bkkpn24}
@@ -5065,6 +5072,7 @@ markers:
   - {type: line-break, offset: 16355, content: '', id: KR4h0102_SBCK_009-31b01}
   - {type: indent, offset: 16355, content: 　　　　, id: KR4h0102_krp_009-bkkind25}
   - {type: punctuation, offset: 16360, content: (, id: KR4h0102_krp_009-bkkpn25}
+  - {type: voice, offset: 16360, length: 6, name: note, id: n8}
   - {type: punctuation, offset: 16366, content: ), id: KR4h0102_krp_009-bkkpn26}
   - {type: 'kr:newline', offset: 16366, content: '
 
@@ -6025,4 +6033,4 @@ markers:
 
       ', id: KR4h0102_krp_009-bkkkrnewl947}
   back: []
-hash: sha256:846b0a8ecadc2482da5f49427c6add9e4f1b23a0ee8f64e38c31091464f4d9f7
+hash: sha256:7f97c16d585eaed6ec5ede747d3ae61f053a51288c554933e61fcc01dda4ad32

@@ -23,6 +23,7 @@ markers:
       ', id: KR4h0102_SBCK_045-bkkkrnewl3}
   - {type: line-break, offset: 9, content: '', id: KR4h0102_SBCK_045-1a04}
   - {type: punctuation, offset: 9, content: (, id: KR4h0102_SBCK_045-bkkpn1}
+  - {type: voice, offset: 9, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 10, content: ), id: KR4h0102_SBCK_045-bkkpn2}
   - {type: indent, offset: 14, content: 　, id: KR4h0102_SBCK_045-bkkind4}
   - {type: 'kr:newline', offset: 33, content: '
@@ -39,8 +40,10 @@ markers:
   - {type: line-break, offset: 78, content: '', id: KR4h0102_SBCK_045-1a07}
   - {type: indent, offset: 94, content: 　, id: KR4h0102_SBCK_045-bkkind5}
   - {type: punctuation, offset: 96, content: (, id: KR4h0102_SBCK_045-bkkpn3}
+  - {type: voice, offset: 96, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 97, content: ), id: KR4h0102_SBCK_045-bkkpn4}
   - {type: punctuation, offset: 100, content: (, id: KR4h0102_SBCK_045-bkkpn5}
+  - {type: voice, offset: 100, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 101, content: ), id: KR4h0102_SBCK_045-bkkpn6}
   - {type: 'kr:newline', offset: 102, content: '
 
@@ -109,12 +112,14 @@ markers:
       ', id: KR4h0102_SBCK_045-bkkkrnewl22}
   - {type: line-break, offset: 388, content: '', id: KR4h0102_SBCK_045-1b10}
   - {type: punctuation, offset: 388, content: (, id: KR4h0102_SBCK_045-bkkpn7}
+  - {type: voice, offset: 388, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 389, content: ), id: KR4h0102_SBCK_045-bkkpn8}
   - {type: 'kr:newline', offset: 413, content: '
 
       ', id: KR4h0102_SBCK_045-bkkkrnewl23}
   - {type: line-break, offset: 413, content: '', id: KR4h0102_SBCK_045-1b11}
   - {type: punctuation, offset: 418, content: (, id: KR4h0102_SBCK_045-bkkpn9}
+  - {type: voice, offset: 418, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 419, content: ), id: KR4h0102_SBCK_045-bkkpn10}
   - {type: 'kr:newline', offset: 438, content: '
 
@@ -1113,4 +1118,4 @@ markers:
 
       ', id: KR4h0102_SBCK_045-bkkkrnewl265}
   back: []
-hash: sha256:c251377cab4cb6704b02ccdc9e38712bdd59246f79a8d8e43d1cc0b738af53bd
+hash: sha256:d50e2d3890f1b23caba3c6dfe7ca6f0983324e4784ac19cd97b56826647617c6

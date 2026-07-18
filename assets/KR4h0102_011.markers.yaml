@@ -22,6 +22,7 @@ markers:
   - {type: line-break, offset: 1, content: '', id: KR4h0102_SBCK_011-1a03}
   - {type: indent, offset: 1, content: 　　　, id: KR4h0102_krp_011-bkkind2}
   - {type: punctuation, offset: 11, content: (, id: KR4h0102_krp_011-bkkpn1}
+  - {type: voice, offset: 11, length: 39, name: note, id: n1}
   - {type: variant, offset: 12, length: 1, content: 姝, WYG: 殊}
   - {type: punctuation, offset: 21, content: /, id: KR4h0102_krp_011-bkkpn2}
   - {type: punctuation, offset: 31, content: ), id: KR4h0102_krp_011-bkkpn3}
@@ -2789,4 +2790,4 @@ markers:
 
       ', id: KR4h0102_krp_011-bkkkrnewl423}
   back: []
-hash: sha256:8928c763578139ff7234ce3759ea4752df6114a978d521898e23819ac35edad5
+hash: sha256:a4a3d83a40526a7ed1476cc2193dc136dcd744fa61ce3a7121aa571c10e5cd78

@@ -1930,6 +1930,7 @@ markers:
   - {type: variant, offset: 5499, length: 1, content: 懐, WYG: 懷}
   - {type: substitution, offset: 5499, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20626}}
   - {type: punctuation, offset: 5510, content: (, id: KR4h0102_krp_037-bkkpn1}
+  - {type: voice, offset: 5510, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 5511, content: ), id: KR4h0102_krp_037-bkkpn2}
   - {type: variant, offset: 5515, length: 1, content: 歳, WYG: 歲}
   - {type: substitution, offset: 5515, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
@@ -1953,6 +1954,7 @@ markers:
   - {type: line-break, offset: 5560, content: '', id: KR4h0102_SBCK_037-11b12}
   - {type: variant, offset: 5561, length: 1, content: 契, SBCK: 􅆻}
   - {type: punctuation, offset: 5564, content: (, id: KR4h0102_krp_037-bkkpn3}
+  - {type: voice, offset: 5564, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 5565, content: ), id: KR4h0102_krp_037-bkkpn4}
   - {type: variant, offset: 5567, length: 1, content: 斯, WYG: 時}
   - {type: 'kr:newline', offset: 5571, content: '
@@ -2512,4 +2514,4 @@ markers:
 
       ', id: KR4h0102_krp_037-bkkkrnewl371}
   back: []
-hash: sha256:556c1af8bbcefc67e3f95c01f42885927c19c533b4c86bf4fec49897bffc4c99
+hash: sha256:9326ea7f148351e75c4f3f521ed6f069d2d2fca3294c85cc5546a9371f7e0204
