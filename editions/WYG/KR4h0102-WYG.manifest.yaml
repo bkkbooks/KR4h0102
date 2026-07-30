@@ -18,7 +18,7 @@ entity_encoding:
 assets:
   parts:
   - {seq: 0, filename: KR4h0102_000-WYG.yaml, hash: 'sha256:990b1f0c27f574c01497378d1b8daccd6cb596edb6b22afc19c5a4c522e205b9'}
-  - {seq: 1, filename: KR4h0102_001-WYG.yaml, hash: 'sha256:0596c19cd757ab545d9f44a7898a451fd4c972bc52e1f89a89634b8381501b54'}
+  - {seq: 1, filename: KR4h0102_001-WYG.yaml, hash: 'sha256:586989c06be0cef0e3be9ab1cd22d65f28792d9fe0f358c8e1e03c5bb331c4f3'}
   - {seq: 2, filename: KR4h0102_002-WYG.yaml, hash: 'sha256:6c7e514faa83dd4550f0503b9c8c1806a3b09a19fcbca642e7d2a87e7f969d40'}
   - {seq: 3, filename: KR4h0102_003-WYG.yaml, hash: 'sha256:5999fe05cf142fe439aa74ed2362401d86c1bfdcda59cd2349ac440b64b0e39c'}
   - {seq: 4, filename: KR4h0102_004-WYG.yaml, hash: 'sha256:0bdccff19c6d5c619516c495ded9b264d4214c0d1c15c267d75ae0fc30ff6511'}
@@ -121,7 +121,7 @@ assets:
   - {seq: 101, filename: KR4h0102_101-WYG.yaml, hash: 'sha256:a6d5b232d34487910e7b8b5efe4479403286abc3653084050177e6562263e9f0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR4h0102_000-WYG.markers.yaml, hash: 'sha256:95af4bcdeaad1e0315153840d40267f94ee43f191f563bbc1562892d4e45ef44'}
-  - {seq: 1, role: markers, filename: assets/KR4h0102_001-WYG.markers.yaml, hash: 'sha256:d5f8e7e782f744f8374d013fdf2beed700e7943fa5406fbba7b07449591eb4f3'}
+  - {seq: 1, role: markers, filename: assets/KR4h0102_001-WYG.markers.yaml, hash: 'sha256:140b09dbbd932b699c0e60663d0b97becb49193a4de691df9586af3865305058'}
   - {seq: 2, role: markers, filename: assets/KR4h0102_002-WYG.markers.yaml, hash: 'sha256:a0605abb12404cb3ddfccf3539ea2d7bb996112bb8f6677fa342f050c831f1fb'}
   - {seq: 3, role: markers, filename: assets/KR4h0102_003-WYG.markers.yaml, hash: 'sha256:04200b1de764179a3d4d405d45672a74a2e461c77f345e999fda5dddfd839387'}
   - {seq: 4, role: markers, filename: assets/KR4h0102_004-WYG.markers.yaml, hash: 'sha256:aec6fbef76c9c0b9822149562bd99e18b60e828527b07cbf69be504a2e0fc58d'}
@@ -238,8 +238,8 @@ table_of_contents:
     marker_id: KR4h0102_WYG_001-1b
     span:
     - body
-    - 0
-    - 5861
+    - 261
+    - 6122
   label: juan 001
   type: section
   level: 1
@@ -1243,4 +1243,4 @@ table_of_contents:
   label: juan 101
   type: section
   level: 1
-hash: sha256:5302149d2b8d95b70a830859dedeab1f647e786684c5cd5713f3cf5b7b4e4557
+hash: sha256:8bcd118017564e693ea63f4b0c8f40cc3985f5307ff3b535aacc8479a2c87f11
